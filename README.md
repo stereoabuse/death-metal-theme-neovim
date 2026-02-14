@@ -1,6 +1,6 @@
 # Death Metal Neovim
 
-The definitive collection of death metal-inspired Neovim colorschemes!
+A collection of death metal-inspired Neovim colorschemes!
 
 **Sublime Text users:** Check out [death-metal-theme-sublime](https://github.com/stereoabuse/death-metal-theme-sublime) instead.
 
