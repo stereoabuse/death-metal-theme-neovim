@@ -6,17 +6,43 @@ This theme collection is based on the excellent work done by [@cdmill](https://g
 
 ## Included Themes
 
-9 canonical death metal albums, each with default and alternative variants:
+9 canonical death metal albums, each with default (left) and alternative (middle) variants.
 
-- **At the Gates** - Slaughter of the Soul (1995)
-- **Autopsy** - Severed Survival (1989)
-- **Bolt Thrower** - Those Once Loyal (2005)
-- **Cannibal Corpse** - Tomb of the Mutilated (1992)
-- **Carcass** - Heartwork (1993)
-- **Death** - Leprosy (1988)
-- **Dismember** - Like an Ever Flowing Stream (1991)
-- **Entombed** - Left Hand Path (1990)
-- **Morbid Angel** - Altars of Madness (1989)
+### At the Gates - Slaughter of the Soul (1995)
+
+![at-the-gates](images/at-the-gates-full.png)
+
+### Autopsy - Severed Survival (1989)
+
+![autopsy](images/autopsy-full.png)
+
+### Bolt Thrower - Those Once Loyal (2005)
+
+![bolt-thrower](images/bolt-thrower-full.png)
+
+### Cannibal Corpse - Tomb of the Mutilated (1992)
+
+![cannibal-corpse](images/cannibal-corpse-full.png)
+
+### Carcass - Heartwork (1993)
+
+![carcass](images/carcass-full.png)
+
+### Death - Leprosy (1988)
+
+![death](images/death-full.png)
+
+### Dismember - Like an Ever Flowing Stream (1991)
+
+![dismember](images/dismember-full.png)
+
+### Entombed - Left Hand Path (1990)
+
+![entombed](images/entombed-full.png)
+
+### Morbid Angel - Altars of Madness (1989)
+
+![morbid-angel](images/morbid-angel-full.png)
 
 ## Rationale
 
