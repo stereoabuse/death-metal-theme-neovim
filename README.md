@@ -4,7 +4,7 @@ The definitive collection of death metal-inspired Neovim colorschemes!
 
 **Sublime Text users:** Check out [death-metal-theme-sublime](https://github.com/stereoabuse/death-metal-theme-sublime) instead.
 
-This theme collection is based on the excellent work done by [@cdmill](https://github.com/cdmill) on [neomodern.nvim](https://github.com/cdmill/neomodern.nvim) and [@metalelf0](https://github.com/metalelf0) on [black-metal-theme-neovim](https://github.com/metalelf0/black-metal-theme-neovim). Big hail to them!
+This theme collection is based on the excellent work done by [@cdmill](https://github.com/casedami) on [neomodern.nvim](https://github.com/cdmill/neomodern.nvim) and [@metalelf0](https://github.com/metalelf0) on [black-metal-theme-neovim](https://github.com/metalelf0/black-metal-theme-neovim). 🤘
 
 ## Included Themes
 
